@@ -18,7 +18,7 @@ I’m Tarun Menon, a Mathematics and Actuarial Science graduate from the Univers
 ![](https://github-profile-trophy.vercel.app/?username=Tp12menon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Grand dad's Quote
-You never get a second chance to make a first impresion and make sure every day you give your best First Impression.
+![You never get a second chance to make a first impresion and make sure every day you give your best First Impression.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tp12menon&limit=5&theme=dark&combine_all_yearly_contributions=true)
